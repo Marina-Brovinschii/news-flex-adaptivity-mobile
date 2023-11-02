@@ -1,0 +1,1 @@
+# news-flex-adaptivity-mobile
